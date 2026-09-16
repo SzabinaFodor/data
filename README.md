@@ -1,2 +1,2 @@
-# proba
-Ez egy próba üzenet
+# Data files
+Data files for teaching
